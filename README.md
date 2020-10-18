@@ -9,6 +9,8 @@ We help our unemployed members find new job opportunities and also their ideas c
 
 We bring together programmers, software developers, open source makers and software enthusiasts, Information Technology entrepreneurs, hackathon participants, engineers and geeks who love DIY projects, IoT and technological evolution. As a result, we have flexibility to merge ideas and split into multidisciplinary teams.
 
+Bit.ly/epu-linkedin
+
 
 # EPU
 Repositório oficial da Comunidade EPU - Engenheiros e Programadores Unidos
